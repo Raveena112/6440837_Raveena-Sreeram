@@ -1,22 +1,34 @@
 # 6440837_Raveena-Sreeram
 
-This repository has a collection of practice exercises divided into three main modules: Web Development, SQL (Database), and Core Java.
+# Practice Exercises Repository
 
-Module 1: Bootstrap Exercises and Local Community Event Portal (HTML, CSS, JavaScript)
+This repository contains a collection of practice exercises organized into three main modules: **Web Development**, **SQL (Database)**, and **Core Java**.
 
-A full front-end project called Local Community Event Portal, created using:
+---
 
-HTML5 – to build the structure of web pages
+##  Module 1: Bootstrap Exercises and Local Community Event Portal (HTML, CSS, JavaScript)
 
-CSS3 – to style the pages (with Bootstrap for making it responsive)
+###  What it includes:
+A complete front-end project named **Local Community Event Portal**, built using:
+- **HTML5** – for building the structure of web pages
+- **CSS3** – for styling the pages (includes **Bootstrap** for responsive design)
+- **JavaScript** – for adding interactive elements
 
-JavaScript – to add interactive features
+---
 
-Module 2: SQL Exercises
+##  Module 2: SQL Exercises
 
-A set of practice questions and exercises to learn and improve SQL skills.
+### What it includes:
+- A set of **SQL practice questions and queries** to strengthen your database skills
+- Useful for learning how to write and understand basic to intermediate SQL commands
 
-Module 3: Core Java Exercises
+---
 
-A collection of Java programs designed to help you understand the basics of Java and object-oriented programming.
+##  Module 3: Core Java Exercises
+
+###  What it includes:
+- A series of **Java programs** focused on:
+  - Understanding Java fundamentals
+  - Practicing object-oriented programming concepts
+
 
