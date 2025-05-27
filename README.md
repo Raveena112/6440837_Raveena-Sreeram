@@ -8,7 +8,6 @@ This repository contains a collection of practice exercises organized into three
 
 ##  Module 1: Bootstrap Exercises and Local Community Event Portal (HTML, CSS, JavaScript)
 
-###  What it includes:
 A complete front-end project named **Local Community Event Portal**, built using:
 - **HTML5** – for building the structure of web pages
 - **CSS3** – for styling the pages (includes **Bootstrap** for responsive design)
@@ -18,7 +17,6 @@ A complete front-end project named **Local Community Event Portal**, built using
 
 ##  Module 2: SQL Exercises
 
-### What it includes:
 - A set of **SQL practice questions and queries** to strengthen your database skills
 - Useful for learning how to write and understand basic to intermediate SQL commands
 
@@ -26,7 +24,6 @@ A complete front-end project named **Local Community Event Portal**, built using
 
 ##  Module 3: Core Java Exercises
 
-###  What it includes:
 - A series of **Java programs** focused on:
   - Understanding Java fundamentals
   - Practicing object-oriented programming concepts
