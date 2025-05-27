@@ -1,0 +1,90 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body and Font */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+/* Navigation */
+nav {
+  background: #333;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Welcome Banner */
+#welcomeBanner {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Highlight Class */
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+/* Event Images */
+.event-image {
+  width: 100px;
+  border: 2px solid #000;
+}
+
+/* Table */
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+td {
+  padding: 10px;
+}
+caption {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Form */
+form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+}
+form input, form select, form textarea, form button {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+/* Output Message */
+#outputMsg {
+  color: green;
+  font-weight: bold;
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .event-image {
+    width: 70px;
+  }
+}
